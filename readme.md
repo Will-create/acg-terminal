@@ -1,4 +1,6 @@
-# Remote terminal
+# Remote terminal for handling virtual servers
+
+## Totaljs 3
 
 ```
 $ npm install
